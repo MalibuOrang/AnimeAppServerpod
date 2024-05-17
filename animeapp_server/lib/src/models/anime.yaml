@@ -1,0 +1,9 @@
+class: Anime
+table: anime
+
+fields:
+  title: String
+  year: int
+  imageUrl: String
+  logline: String
+  directorName: String
